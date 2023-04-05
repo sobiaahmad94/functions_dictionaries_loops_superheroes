@@ -75,7 +75,8 @@ def get_superhero_alias(super_name):
 
 # print(get_superhero_alias("Spider-Man"))
 
-#----------------------
+#---------------------- 
+
 
 def get_superhero_superpowers(superhero_name):
     superheroes_list = [
@@ -91,7 +92,7 @@ def get_superhero_superpowers(superhero_name):
 # ---------------------
 # Refactor so that the superpowers can be stored within a list
 
-
+# I will add some more examples to this 
 
     
     
